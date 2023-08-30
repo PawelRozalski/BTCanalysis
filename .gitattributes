@@ -1,1 +1,2 @@
 "*.csv filter=lfs diff=lfs merge=lfs -text" 
+BTC2015-2023.csv filter=lfs diff=lfs merge=lfs -text
